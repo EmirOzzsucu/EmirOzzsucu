@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Emir Özsucu</h1>
-<h3 align="center">A passionate Mobile Developer (Android & iOS) from Turkey</h3>
+<h1 align="center">Hi there👋, I'm Emir Özsucu</h1>
+<h3 align="center">Android Mobile Developer & Web Developer from Turkey</h3>
 
 ---
 
 ### 📝 About Me
-I am a dedicated mobile developer with a strong passion for building efficient and scalable apps. I work with Kotlin, Jetpack Compose, Flutter, and more. Always improving my skills and learning new technologies to create better user experiences.
+I am a dedicated **Android Mobile Developer** and **Web Developer** based in Istanbul, pursuing my Master's Degree in **Management Information Systems and Engineering** at Marmara University (B.Sc. in MIS from Piri Reis University). 
+
+Currently, I work remotely as a **Web Developer & Social Media Manager** at **CSS Turkey**, focusing on responsive design, UX, and digital brand identity. Previously, I interned in the **Business Development & R&D Department at KoçSistem**, where I contributed to a mobile e-commerce app using Kotlin and SQLite. I specialize in **Kotlin, Jetpack Compose, MVVM Architecture, and Firebase**, and I'm continuously advancing my skills in **Flutter** for cross-platform (Android & iOS) development.
 
 ---
 
@@ -22,12 +24,12 @@ I am a dedicated mobile developer with a strong passion for building efficient a
 
 ---
 
-### 🚀 What I'm Currently Working On
-- Building a smart traffic control simulation using Kotlin & Jetpack Compose 🚦  
-- Developing cross-platform mobile apps using Flutter (Android + iOS) 📱✨  
-- Integrating Gemini AI chat and Finnhub stock data into Android apps 📈🤖  
-- Learning Firebase and real-time data handling in mobile development ☁️📲  
-- Improving clean architecture and MVVM practices in Android 💡  
+### 🚀 Featured Projects & Current Focus
+- ⚓ **Marina Track (TÜBİTAK 2209-A):** Digitizing maritime operations (inventory, crew management, maintenance, and communication) using Kotlin, Firebase, and MVVM architecture.
+- 🤖 **EasyBot:** Multi-API Android chatbot built with Kotlin, Jetpack Compose, and MVVM, integrating Gemini, CoinGecko, Finnhub, Weather, and News APIs for real-time data.
+- 🥗 **GDSC Solution Competition:** Built a "Healthy Living" themed mobile app using Java & Firebase to connect students with free psychologist and dietician support.
+- 📱 **Cross-Platform Growth:** Advancing in **Flutter** to build scalable applications for both Android and iOS.
+- 💡 **Clean Architecture:** Continuously refining MVVM practices, UI/UX design, and real-time data handling with Firebase.
 
 ---
 
@@ -56,5 +58,10 @@ I am a dedicated mobile developer with a strong passion for building efficient a
   <a href="https://www.linkedin.com/in/emir-%C3%B6zsucu-y2002/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://emirozzsucu.github.io/KisiselPortfoy/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:emirozsucu2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
-
